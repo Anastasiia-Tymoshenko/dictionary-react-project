@@ -12,7 +12,16 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer></footer>
+        <footer>
+          <a
+            href="https://github.com/Anastasiia-Tymoshenko/dictionary-react-project"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Open-source code
+          </a>{' '}
+          by Anastasiia Tymoshenko
+        </footer>
       </div>
     </div>
   );
