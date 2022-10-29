@@ -16,3 +16,8 @@
 .App footer {
   text-align: center;
 }
+
+.App footer a {
+  color: #600f32;
+  text-decoration: none;
+}
